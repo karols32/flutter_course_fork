@@ -1,7 +1,6 @@
 # flutter_course
 
 A new Flutter project.
-Update.
 
 ## Getting Started
 
@@ -15,3 +14,18 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+#dajemy tylko raz na nowo stworzonym branchu
+git remote add upstream https://github.com/LynxLynxx/flutter_course.git
+
+#pobiera najnowsze zmiany
+git fetch upstream 
+
+#pobieranie najnowszych zmianych z branch mian
+git checkout main
+
+#najnowsze zmiany w wersji lokalnej
+git merge upstream/main
+
+#najnowsze zmiany w wersji zdalnej
+git push
