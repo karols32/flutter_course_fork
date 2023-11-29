@@ -42,7 +42,7 @@ class _MagicBallPageState extends State<MagicBallPage> {
             child: Center(
               child: Text(
                 'Ask Me Anything...',
-                style: TextStyle(fontSize: 60.0, color: Colors.white),
+                style: TextStyle(fontSize: 50.0, color: Colors.white),
                 
               ),
             ),
